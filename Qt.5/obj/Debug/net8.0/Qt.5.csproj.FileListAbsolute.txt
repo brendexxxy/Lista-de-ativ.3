@@ -1,0 +1,15 @@
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\bin\Debug\net8.0\Qt.5.exe
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\bin\Debug\net8.0\Qt.5.deps.json
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\bin\Debug\net8.0\Qt.5.runtimeconfig.json
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\bin\Debug\net8.0\Qt.5.dll
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\bin\Debug\net8.0\Qt.5.pdb
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\obj\Debug\net8.0\Qt.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\obj\Debug\net8.0\Qt.5.AssemblyInfoInputs.cache
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\obj\Debug\net8.0\Qt.5.AssemblyInfo.cs
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\obj\Debug\net8.0\Qt.5.csproj.CoreCompileInputs.cache
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\obj\Debug\net8.0\Qt.5.sourcelink.json
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\obj\Debug\net8.0\Qt.5.dll
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\obj\Debug\net8.0\refint\Qt.5.dll
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\obj\Debug\net8.0\Qt.5.pdb
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\obj\Debug\net8.0\Qt.5.genruntimeconfig.cache
+C:\Users\j02\Documents\Brenda kelly Tavares de lima-2B\chagas\logica de programação\c#\lista de ativ.3\Qt.5\obj\Debug\net8.0\ref\Qt.5.dll
